@@ -1,0 +1,2 @@
+Install GNU coreutils: brew install coreutils
+put bash_profile into ~/.bash_profile

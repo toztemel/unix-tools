@@ -1,0 +1,2 @@
+eval $(gdircolors)
+alias ls="gls --color=auto"
